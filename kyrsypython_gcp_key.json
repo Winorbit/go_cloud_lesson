@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "brave-arcadia-325423",
+  "private_key_id": "84acf197844b0699eb6ec48d94a07cc8ba4b5e25",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDJig+EPV+PiPxv\nLqpQ+jfcIVsdNPJL2VNNpZvhSB6WSqcmhj9w8tvrDatBQCEc0iEGFvPiAoQ+uv+E\njIZ3hhKEUTxz0JXjCwFqpKR3x7bDQTEq1wS5iR0OghcZlb3pOkai5wD5ltJVc99u\netCNm4cW9oFoSoijFLHTTfdP8CIguhe5GAeHPi6v9fpuZ5xa/vMO5UayxMzYe329\nD0jaOfz6v6Elo8QGfMz68/n1lLnzOE75n730FImpSqmkbSUC/A3qQTvwtuljIZma\nNf5bY0+7POlgkl8LqEF96WyKP6CQseO4Z+uoU+0RnK6TYKHkDGi5uOcnR/M1J4nD\n2f47MoRrAgMBAAECggEAANNuTpy4IJKDgwUhDdLXHFmwmp+B4jbTkL5EJz9OeMhB\n44frTtU0p9LH/L6Ql5/b9VW+eFkMNr+2zXxkIntB1wgSWZB7/MLtlp3rAsgP0OjA\nF2ZIfT3/pG0CcYnKKcdRpw9Tez7pHi5fjpi4K131iqUyHpqvHkTpEaVBxpvzGRvR\nCHPj7t7LcfdsAdN3MUXK87L5w6ipUoaRWJdYDK61lBd5BY8VslAlTIBAB34gg2WI\nmfZDdQ7kzBqojmJjH6m/guL1yFAWfXDkEvnNgg0vFNKH3xiLRYQTNRVmxLvsGZVM\nakmAjdaxRL0eKqoPaTbO0xICUsVnZsi7M2jg7iLeaQKBgQD8BpdSa+flzYvqcZ8e\nQmijAkYfazYPMaxN6fAstXiEfB3rF3hDUVCZ3aIqW1RVuEtMa14mrWMgX2rl5fKj\nArC9+OfQN75AAcrrjr2OIV0BP1YVKcrHGd3jm1sV/mtIROOhF0swD+mHBM01k8cH\ni59N9Q1p8irQB1os5mKBATd3rwKBgQDMt6jXaD7Ahh4q+5W/6S8iWZ6jDuTrsbeN\nx0l8mOvMXElKr+0Aix7Z2bLLMZ/MqHF4L9TE8o0tibcjXCDj0LNE8jCLAvClAdxn\nQtrUbttEZ2nD9EuDlvsTWMCIDuseSSoWPhhvmAMuuiYsXt9DrdZjHzuuxyONRbYW\nz4XbDlMyBQKBgQDtWOe535WNfn5+VHMd9DzHB6Uyga1vscArwF1IPb86RgmHFZtV\nCod14JyQd2J9OArx9Uu98RyhqDrsOBrCGg6JWpg2J8ksToPkQ5GRASqtuhA/7hPi\nXiHx8KVfmTM/5GDbnSxaHyI23fbEtl+CY6Orr1Tqqf5X3BS4pF+wTo0GUQKBgQCI\nj8Ob3jhuKYmaVrWwjZcZrPr7/wWKjMTLWTOWYFR7wNxLbEwHXsa3wFda4MGevobj\nC9U9hCfVRtbaSazPC/tqdL0ZHl71U+Z5I8niiAjQ+sM9KovtPhxC7aORn5IMY/Yl\nXErktlz5IMgyNR9ugFpRSRaBIup+ZRBw6wJ5/HZXGQKBgQCyrEUu5eGb4EIJwsFn\nVMzrge9Nw2+8J2888lXUFFHS4fnw/PMcp3iZ7alZyAEySq61FuUi85g/xGmQWqUO\nNjQYCRalV+URpDmlofV+QwNWUzJebW2lsKGo3w5zptdcjldL+866Y42c7RwGbmaI\nHYMj88RHpa2YR5oJGqwi4w6CBg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "brave-arcadia-325423@appspot.gserviceaccount.com",
+  "client_id": "103770469683533262702",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/brave-arcadia-325423%40appspot.gserviceaccount.com"
+}
