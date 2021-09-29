@@ -1,0 +1,28 @@
+{{template "layout" .}}
+
+{{define "content"}}
+
+<div class="container">
+    <hr />
+    <div class="row">
+        <!--Card-->
+        {{range .Events}}
+        <div class="col-lg-4 col-md-12 mb-4">
+            <div class="card">
+                
+                <!--Card content-->
+                <div class="card-body">
+                    <h4 class="card-title">{{.Title}}</h4>
+                    <p class="card-text">{{.Location}}</p>
+                    <p class="card-text">{{.When}}</p>
+                    <a href="/delete/{{.ID}}">Delete</a>
+                    <a href="/edit/{{.ID}}">Edit</a>
+                </div>
+            </div>
+        </div>
+        {{end}}
+    </div>
+    <div>Number of Events: {{.Count}}</div>
+</div>
+
+{{end}}

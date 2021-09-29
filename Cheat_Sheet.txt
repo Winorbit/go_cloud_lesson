@@ -1,0 +1,14 @@
+# Build the program:
+go build
+
+# Run the program
+./go-website
+
+
+# Use Fresh to automatically rebuild project when there are changes
+# Run Fresh from the application's folder
+go get github.com/pilu/fresh
+fresh
+
+# Build with Google Cloud Build
+gcloud builds submit --tag=gcr.io/YOUR-PROJECT-ID-HERE/go-website:v1.0 .
